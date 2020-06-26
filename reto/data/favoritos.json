@@ -1,0 +1,24 @@
+{
+  "personajes": [
+    {
+      "avatar": "https://sites.google.com/site/marvelcomics234/_/rsrc/1453268044347/personajes/Amazing-Comic-Spider-Man-Wallpaper-for-Desktop.jpg",
+      "birthday": "10 de agosto de 2001"
+    },
+    {
+      "avatar": "https://sites.google.com/site/marvelcomics234/_/rsrc/1453269234614/personajes/capitan%20america.jpg",
+      "birthday": "04 de julio de 1918"
+    },
+    {
+      "avatar": "https://sites.google.com/site/marvelcomics234/_/rsrc/1453270565653/personajes/wolverine_wallpaper_by_exozaga.jpg",
+      "birthday": "20 de octubre 1974"
+    },
+    {
+      "avatar": "https://sites.google.com/site/marvelcomics234/_/rsrc/1453271070025/personajes/hulk.jpg",
+      "birthday": "5 de mayo de 1962"
+    },
+    {
+      "avatar": "https://sites.google.com/site/marvelcomics234/_/rsrc/1453270939952/personajes/thor.jpg",
+      "birthday": "11 de agosto de 1983"
+    }
+  ]
+}
