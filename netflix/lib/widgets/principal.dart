@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import 'nabvar.dart';
 
 class MainPoster extends StatelessWidget {
@@ -27,7 +26,7 @@ class MainPoster extends StatelessWidget {
                   end: Alignment.bottomCenter,
                   colors: <Color>[Colors.black38, Colors.black])),
         ),
-        SafeArea(child: Navbar())
+        // SafeArea(child: Navbar())
       ],
     );
   }

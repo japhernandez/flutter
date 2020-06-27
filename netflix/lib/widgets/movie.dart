@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:netflix/models/pelicula.dart';
 
-class ImageItem extends StatelessWidget {
+class Movie extends StatelessWidget {
   final List<Pelicula> peliculas;
   final Function siguientePagina;
 
-  ImageItem({@required this.peliculas, @required this.siguientePagina});
+  Movie({@required this.peliculas, @required this.siguientePagina});
   final _pageController =
       new PageController(initialPage: 1, viewportFraction: 0.3);
 
@@ -32,13 +32,14 @@ class ImageItem extends StatelessWidget {
   }
 
   Widget _card(BuildContext context, Pelicula pelicula) {
-    return Container(
+    final card = Container(
         margin: EdgeInsets.only(right: 15.0),
         child: Column(
           children: <Widget>[
-            Expanded(
+            Hero(
+              tag: pelicula.id.toString(),
               child: ClipRRect(
-                // borderRadius: BorderRadius.circular(110.0),
+                borderRadius: BorderRadius.circular(110.0),
                 child: FadeInImage(
                   placeholder: AssetImage('assets/images/no-image.jpg'),
                   image: NetworkImage(pelicula.getPosterImage()),
@@ -49,8 +50,8 @@ class ImageItem extends StatelessWidget {
               ),
             ),
             SizedBox(
-                // height: 5.0,
-                ),
+              height: 5.0,
+            ),
             Text(
               pelicula.title,
               overflow: TextOverflow.ellipsis,
@@ -58,5 +59,12 @@ class ImageItem extends StatelessWidget {
             )
           ],
         ));
+
+    return GestureDetector(
+      child: card,
+      onTap: () {
+        Navigator.pushNamed(context, 'detalle', arguments: pelicula);
+      },
+    );
   }
 }

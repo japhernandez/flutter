@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:netflix/models/pelicula.dart';
 
-class ImageItem extends StatelessWidget {
+class MovieValorda extends StatelessWidget {
   final List<Pelicula> peliculas;
   final Function siguientePagina;
 
-  ImageItem({@required this.peliculas, @required this.siguientePagina});
+  MovieValorda({@required this.peliculas, @required this.siguientePagina});
   final _pageController =
       new PageController(initialPage: 1, viewportFraction: 0.3);
 
