@@ -1,5 +1,4 @@
-import 'package:animations/src/pages/progress.dart';
-import 'package:animations/src/pages/slideShow.dart';
+import 'package:animations/src/pages/linearProgressPage.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -13,7 +12,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Diseños App',
       debugShowCheckedModeBanner: false,
-      home: Progress(),
+      home: LinearProgressPage(),
     );
   }
 }
