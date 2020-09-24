@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19be987d-fc5a-43ec-9f75-79079c6d24ed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/bandApp/lib/models/band.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bandApp/lib/pages/home.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="stateless_widget" />
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1h6nvoEGE1te0l8XsxJufLwSUAE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flutter.main.dart (1)">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.dart (1)" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bandApp/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/netflix/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter.main.dart (1)" />
+        <item itemvalue="Flutter.main.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19be987d-fc5a-43ec-9f75-79079c6d24ed" name="Default Changelist" comment="" />
+      <created>1599340643485</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599340643485</updated>
+      <workItem from="1599340644970" duration="10957000" />
+      <workItem from="1600717213574" duration="132000" />
+      <workItem from="1600902542429" duration="6881000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#Vim_Emulation" timestamp="1600711385480">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Vim_Emulation/0.0.1440.900@0.0.1440.900" timestamp="1600711385480" />
+    <state x="85" y="153" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600711578563">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="99" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1366.23.1366.745/0.23.1680.1027@0.23.1680.1027" timestamp="1599341400568" />
+    <state x="85" y="153" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1600711578563" />
+    <state x="368" y="345" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599365938581">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="368" y="345" key="#com.intellij.fileTypes.FileTypeChooser/-1366.23.1366.745/0.23.1680.1027@0.23.1680.1027" timestamp="1599365938581" />
+    <state x="448" y="259" key="#com.intellij.ide.util.MemberChooser" timestamp="1599362628116">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="448" y="259" key="#com.intellij.ide.util.MemberChooser/-1366.23.1366.745/0.23.1680.1027@0.23.1680.1027" timestamp="1599362628116" />
+    <state x="351" y="178" key="#main.dart" timestamp="1600711227305">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="351" y="178" key="#main.dart/0.0.1440.900@0.0.1440.900" timestamp="1600711227305" />
+    <state width="1210" height="156" key="GridCell.Tab.0.bottom" timestamp="1600903785495">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1210" height="156" key="GridCell.Tab.0.bottom/-1366.23.1366.745/0.23.1680.1027@0.23.1680.1027" timestamp="1600903785495" />
+    <state width="971" height="280" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1600717067558" />
+    <state width="1210" height="156" key="GridCell.Tab.0.center" timestamp="1600903785494">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1210" height="156" key="GridCell.Tab.0.center/-1366.23.1366.745/0.23.1680.1027@0.23.1680.1027" timestamp="1600903785494" />
+    <state width="971" height="280" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1600717067557" />
+    <state width="1210" height="156" key="GridCell.Tab.0.left" timestamp="1600903785493">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1210" height="156" key="GridCell.Tab.0.left/-1366.23.1366.745/0.23.1680.1027@0.23.1680.1027" timestamp="1600903785493" />
+    <state width="971" height="280" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1600717067557" />
+    <state width="1210" height="156" key="GridCell.Tab.0.right" timestamp="1600903785494">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1210" height="156" key="GridCell.Tab.0.right/-1366.23.1366.745/0.23.1680.1027@0.23.1680.1027" timestamp="1600903785494" />
+    <state width="971" height="280" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1600717067557" />
+    <state x="308" y="200" key="IDE.errors.dialog" timestamp="1600711721024">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="308" y="200" key="IDE.errors.dialog/0.0.1440.900@0.0.1440.900" timestamp="1600711721024" />
+    <state x="545" y="76" key="RollbackChangesDialog" timestamp="1600902684891">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="545" y="76" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1600902684891" />
+    <state x="123" y="133" key="SettingsEditor" timestamp="1600711763642">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="144" y="175" key="SettingsEditor/-1366.23.1366.745/0.23.1680.1027@0.23.1680.1027" timestamp="1599340700100" />
+    <state x="123" y="133" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1600711763642" />
+    <state x="390" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1600711301982">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="390" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1600711301982" />
+    <state x="319" y="53" key="new project wizard" timestamp="1600902880273">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="319" y="53" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1600902880273" />
+  </component>
+</project>
